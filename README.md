@@ -99,9 +99,13 @@ Operational Use: Sales and marketing teams can prioritize top products and high-
 Strategic Planning: Informs stock planning, promotional strategies, and business expansion.
 
 ## Screenshots / Dashboard Previews
-Snapshot 1 – Summary KPIs, Category-wise Tree View (https://github.com/Omimishra/BikeStats-Dashboard/blob/main/Advanced%20View%20Snapshot.png)
 
-Snapshot 2 – Time Trend, Revenue by Brand and City (https://github.com/Omimishra/BikeStats-Dashboard/blob/main/Normal%20view%20snapshot.png)
+#### Snapshot 1 – Summary KPIs, Category-wise Tree View  
+![Advanced View](https://github.com/Omimishra/BikeStats-Dashboard/blob/main/data/Advanced%20View%20Snapshot.png?raw=true)
 
-Snapshot 3 – Detailed Revenue Table with MTD, QTD, YTD metrics (https://github.com/Omimishra/BikeStats-Dashboard/blob/main/Detailed%20sales%20table.png)
+#### Snapshot 2 – Time Trend, Revenue by Brand and City  
+![Normal View](https://github.com/Omimishra/BikeStats-Dashboard/blob/main/data/Normal%20view%20snapshot.png?raw=true)
+
+#### Snapshot 3 – Detailed Revenue Table with MTD, QTD, YTD metrics  
+![Detailed Table](https://github.com/Omimishra/BikeStats-Dashboard/blob/main/data/Detailed%20sales%20table.png?raw=true)
 
