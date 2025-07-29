@@ -32,9 +32,11 @@ The dashboard was developed using the following tools and technologies:
 
 ## Features / Highlights
 • Business Problem
+
 In the competitive retail space, especially in niche categories like bicycles, understanding the performance of different product categories, sales trends, and regional variations is key to scaling operations, optimizing inventory, and increasing profit margins.
 
 • Goal of the Dashboard
+
 To deliver an intuitive, interactive, and filterable report that:
 
 Helps businesses explore sales by year, brand, category, and geography.
